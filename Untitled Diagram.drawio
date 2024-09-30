@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="810" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UnU5k-fMkNBFsmH0HokY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnU5k-fMkNBFsmH0HokY-1" target="UnU5k-fMkNBFsmH0HokY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnU5k-fMkNBFsmH0HokY-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UnU5k-fMkNBFsmH0HokY-2" value="Login&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UnU5k-fMkNBFsmH0HokY-5" value="Backend Server" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="10" width="130" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UnU5k-fMkNBFsmH0HokY-7" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6D1F00;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="UnU5k-fMkNBFsmH0HokY-5">
+          <mxGeometry x="35" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UnU5k-fMkNBFsmH0HokY-8" value="Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6D1F00;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="UnU5k-fMkNBFsmH0HokY-5">
+          <mxGeometry x="40" y="70" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UnU5k-fMkNBFsmH0HokY-9" value="Chat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6D1F00;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="UnU5k-fMkNBFsmH0HokY-5">
+          <mxGeometry x="40" y="110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UnU5k-fMkNBFsmH0HokY-10" value="File Handler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6D1F00;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="UnU5k-fMkNBFsmH0HokY-5">
+          <mxGeometry x="20" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UnU5k-fMkNBFsmH0HokY-11" value="Logs and A&lt;span style=&quot;background-color: initial;&quot;&gt;nalytics&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6D1F00;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="UnU5k-fMkNBFsmH0HokY-5">
+          <mxGeometry x="5" y="188" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
